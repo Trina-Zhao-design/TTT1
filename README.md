@@ -4,7 +4,6 @@
 * test2
   * test2-1
   * test2-2
-![](https://github.com/Trina-Zhao-design/TTT1/blob/main/Drowm%20keyword.jpg)
 
 ![](https://github.com/Trina-Zhao-design/TTT1/raw/main/untitled.223.png)
 
