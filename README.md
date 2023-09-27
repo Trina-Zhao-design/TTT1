@@ -5,6 +5,6 @@
   * test2-1
   * test2-2
 
-![](https://github.com/Trina-Zhao-design/TTT1/raw/main/untitled.223.png)
+![](https://github.com/Trina-Zhao-design/TTT1/blob/main/untitled.223.png)
 
 * TEST3
